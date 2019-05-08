@@ -1,0 +1,12 @@
+{
+    "type": "object",
+    "properties": {
+        "Route": {
+            "type": "string",
+            "enum": [
+                "90",
+                "X1"
+            ]
+        }
+    }
+}
